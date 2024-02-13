@@ -21,9 +21,11 @@ pip install requests bs4
 
 ## Usage
 1. Navigate to the project directory:
-```bash
+```
 cd (your-project)
+```
 
 2. Run the application:
-```bash
+```
 python R6 map scraper.py
+```
