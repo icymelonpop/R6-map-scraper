@@ -15,8 +15,9 @@ Before you begin, ensure that you have Python 3.6 or a higher version installed 
 
 Before running the script, make sure you have Python installed. You can install the required modules by running:
 
-```bash
+```
 pip install requests bs4
+```
 
 ## Usage
 1. Navigate to the project directory:
