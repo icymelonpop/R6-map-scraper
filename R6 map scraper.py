@@ -111,9 +111,6 @@ def extract_and_delete_files(map_names):
         os.remove(zip_path)
         print(f"Extracted and deleted the original file at: {extract_folder}")
         
-        # Check for __MACOSX folder and prompt user for deletion
-        
-        
         # Delete __MACOSX folders
         macosx_folder = os.path.join(extract_folder, "__MACOSX")
         if os.path.exists(macosx_folder):
